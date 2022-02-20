@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0367189e-5e54-452b-9b59-84b370f85235}</ProjectGuid>
-    <RootNamespace>BitwiseSwap</RootNamespace>
+    <ProjectGuid>{c943a8e9-cd06-41f1-be5c-b264f71f1133}</ProjectGuid>
+    <RootNamespace>MinMaxSumAvg</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BitwiseSwap.cpp" />
+    <ClCompile Include="MinMaxSumAvg.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

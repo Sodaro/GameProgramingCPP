@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0367189e-5e54-452b-9b59-84b370f85235}</ProjectGuid>
-    <RootNamespace>BitwiseSwap</RootNamespace>
+    <ProjectGuid>{8961cdff-0177-44a1-aca9-47634f22fede}</ProjectGuid>
+    <RootNamespace>ContainsNumber</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BitwiseSwap.cpp" />
+    <ClCompile Include="ContainsNumber.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
