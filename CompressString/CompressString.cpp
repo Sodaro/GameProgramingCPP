@@ -25,6 +25,7 @@ std::string decompress(std::string text)
             for (int i = 0; i < timesToWrite; i++)
                 decompressed += charToWrite;
 
+            i = pos-1;
         }
         else
         {
